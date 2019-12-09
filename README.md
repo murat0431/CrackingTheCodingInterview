@@ -1,2 +1,2 @@
 # CrackingTheCodingInterview
-This repository includes my solutions for the book Creacking The Coding Interview
+This repository includes my solutions for the book Cracking The Coding Interview
